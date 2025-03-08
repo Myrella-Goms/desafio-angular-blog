@@ -10,10 +10,13 @@ O seguinte projeto teve como objetivo criar um blog de moda utilizando o framewo
   </a>
 </p>
 
-## Requisitos para excecução
-- Versão 14.2.13 do Angular CLI
-- Versão 20.9.0 do Node.js
-- IDE da sua prefrência
+## Requisitos para elaboração do projeto:
+- Versão 14.2.13 do Angular CLI (opcional)
+- Versão 20.9.0 do Node.js (opcional)
+- IDE da sua preferência
+
+## Tema do projeto
+O blog que desenvolvi possui temática de moda, com matérias voltadas à semana de moda de Paris 2025.
 
 ## Imagens do projeto
 <img src="https://github.com/Myrella-Goms/desafio-angular-blog/blob/main/Captura%20de%20tela%202025-03-07%20173610.png">
